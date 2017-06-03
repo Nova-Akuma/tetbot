@@ -1,0 +1,1 @@
+worker: nfm run nodemon
